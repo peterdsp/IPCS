@@ -6,7 +6,6 @@ Welcome to the **Introduction to the Principles of Computer Science** course rep
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Exercises](#exercises)
 - [Contact](#contact)
 
 ## Introduction
